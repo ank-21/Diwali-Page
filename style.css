@@ -8,8 +8,7 @@
 }
 body
 {
-	background: #003056;
-}
+	background: #0a0b0b}
 section
 {
 	position: relative;
@@ -36,7 +35,6 @@ section:nth-child(2).content
 section.content h2
 {
 	-webkit-text-stroke: 1px #fff;
-	color: transparent;
 	font-size: 8em;
 	line-height: 0.9em;
 }
